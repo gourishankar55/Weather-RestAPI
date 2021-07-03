@@ -22,7 +22,7 @@ Step4 : Now for RestAPI you can make use of any IDE which are available but i wo
 Step5 : Import the weather directory project and then run it as spring boot application finally go to any browser chrome/explorer or you can also make use of postman app to test the RestAPI.
 
 
-Note : If you get server failed error after running it then in application.properties file add this ------server.port="port address" (port address could be 8085,8081 or anything similar but not same as your mysql and apache server port) -------.
+Note : If you get server failed error after running it then in application.properties file add this ------server.port="port address" (port address could be 8085,8081 or anything similar but not same as your mysql and apache server port) ----.
 
 
                                                                      
