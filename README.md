@@ -2,7 +2,7 @@
   
                               
 
-If you are using this RestAPI then you can follow these following steps:
+If you are using this RestAPI then you can follow these following steps for making it work:
 
 
 Step1 : Install Xampp in your system if you don't have one then make sure you start apache server and mysql server from Xampp control panel which you will get after Successfull installation of Xampp in your system.
